@@ -52,6 +52,16 @@ picture{
     display: grid;
     grid-template-columns: 1fr 1fr 2fr 1fr;
     gap: 10px;
+    padding-right: 170px;
+}
+.cadastro-center{
+    display: block;
+    
+    
+    width: 100%;
+    
+    padding-right: 0px;
+    
 }
 
 label{
